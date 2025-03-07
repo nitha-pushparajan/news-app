@@ -1,0 +1,1130 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/59c84b6e-748c-51d8-b628-2a8db7fac7f1",
+      "url": "https://www.nytimes.com/2025/03/05/opinion/trump-congress-speech.html",
+      "id": 100000010020244,
+      "asset_id": 100000010020244,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-05 07:48:41",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Federal Budget (US);Presidential Election of 2024;State of the Union Message (US);United States International Relations;Customs (Tariff);Russian Invasion of Ukraine (2022);Illegal Immigration;Taxation;Democratic Party;Canada;United States;Mexico",
+      "column": null,
+      "byline": "By New York Times Opinion",
+      "type": "Article",
+      "title": "‘It Was 90-Plus Minutes of Bad Moments’: 9 Opinion Writers on Trump’s Address to Congress",
+      "abstract": "What Times Opinion columnists and writers thought of the president’s speech to Congress.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Budget (US)",
+        "Presidential Election of 2024",
+        "State of the Union Message (US)",
+        "United States International Relations",
+        "Customs (Tariff)",
+        "Russian Invasion of Ukraine (2022)",
+        "Illegal Immigration",
+        "Taxation"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": [],
+      "geo_facet": ["Canada", "United States", "Mexico"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Shoshana Schultz/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/opinion/05scorecard/05scorecard-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/opinion/05scorecard/05scorecard-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/opinion/05scorecard/05scorecard-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/58770621-d091-5611-9f6c-7f66344c3371",
+      "url": "https://www.nytimes.com/2025/03/04/opinion/trump-ukraine-putin-speech.html",
+      "id": 100000010031213,
+      "asset_id": 100000010031213,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-05 13:25:33",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Russian Invasion of Ukraine (2022);United States International Relations;Trump, Donald J;Ukraine;Russia",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Is Hiding Something on Ukraine",
+      "abstract": "When you don’t call things by their real name, there is usually a reason.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["Ukraine", "Russia"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Ioulex for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/opinion-thepoint-friedman-joint-session-zblv/opinion-thepoint-friedman-joint-session-zblv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/opinion-thepoint-friedman-joint-session-zblv/opinion-thepoint-friedman-joint-session-zblv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/opinion-thepoint-friedman-joint-session-zblv/opinion-thepoint-friedman-joint-session-zblv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fb06d855-55af-5a5f-936e-0b34653e0448",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-speech-congress-democrats-republicans.html",
+      "id": 100000010032529,
+      "asset_id": 100000010032529,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 00:34:51",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Social Security (US);Customs (Tariff);Speeches and Statements;State of the Union Message (US);Trump, Donald J;Musk, Elon;House of Representatives;Senate;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Shawn McCreesh",
+      "type": "Article",
+      "title": "During Trump’s Rowdy Speech to Congress, the Quiet Moments Said the Most",
+      "abstract": "President Trump’s comments on tariffs and Social Security sent something of a chill through the House chamber.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Social Security (US)",
+        "Customs (Tariff)",
+        "Speeches and Statements",
+        "State of the Union Message (US)"
+      ],
+      "org_facet": ["House of Representatives", "Senate", "Republican Party", "Democratic Party"],
+      "per_facet": ["Trump, Donald J", "Musk, Elon"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump’s speech, at about 100 minutes, was the longest presidential address to Congress in modern history.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-scene1-pqhw/05dc-scene1-pqhw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-scene1-pqhw/05dc-scene1-pqhw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-scene1-pqhw/05dc-scene1-pqhw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8cd99173-3a79-5024-887f-a541c06213ae",
+      "url": "https://www.nytimes.com/2025/03/05/opinion/trump-revenge-american-people.html",
+      "id": 100000010028133,
+      "asset_id": 100000010028133,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-05 13:12:18",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Federal Criminal Case Against Trump (Documents Case);United States Politics and Government;Presidential Election of 2024;United States Defense and Military Forces;Presidential Election of 2020;Authoritarianism (Theory and Philosophy);Trump, Donald J;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Jamelle Bouie",
+      "type": "Article",
+      "title": "Trump Promised Retribution. Turns Out He Had a Very Big Target in Mind.",
+      "abstract": "It is hard to describe the president’s first month and a half in office as something other than a retribution campaign against the American people.",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (Documents Case)",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "United States Defense and Military Forces",
+        "Presidential Election of 2020",
+        "Authoritarianism (Theory and Philosophy)"
+      ],
+      "org_facet": ["Democratic Party", "Republican Party"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05bouie-zblw/05bouie-zblw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05bouie-zblw/05bouie-zblw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05bouie-zblw/05bouie-zblw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f6e32f42-5b3c-55c3-8b1f-c999d80483bd",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-speech-takeaways.html",
+      "id": 100000010014793,
+      "asset_id": 100000010014793,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 00:36:45",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "State of the Union Message (US);United States Politics and Government;Speeches and Statements;Russian Invasion of Ukraine (2022);Customs (Tariff);Presidential Election of 2024;Trump, Donald J;Musk, Elon;House of Representatives;Senate;Government Efficiency Department (US)",
+      "column": null,
+      "byline": "By Tyler Pager",
+      "type": "Article",
+      "title": "6 Takeaways From Trump’s Address to Congress",
+      "abstract": "In a lengthy speech, President Trump promoted his administration’s rapid early moves and reprised the themes of his campaign, vowing to crack down on illegal immigration and “wokeness.”",
+      "des_facet": [
+        "State of the Union Message (US)",
+        "United States Politics and Government",
+        "Speeches and Statements",
+        "Russian Invasion of Ukraine (2022)",
+        "Customs (Tariff)",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": ["House of Representatives", "Senate", "Government Efficiency Department (US)"],
+      "per_facet": ["Trump, Donald J", "Musk, Elon"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“We have accomplished more in 43 days than most administrations accomplish in four years or eight years — and we are just getting started,” Mr. Trump said on Tuesday.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04dc-takeaways-01-lhmt/04dc-takeaways-01-lhmt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04dc-takeaways-01-lhmt/04dc-takeaways-01-lhmt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04dc-takeaways-01-lhmt/04dc-takeaways-01-lhmt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ac202828-ff82-5b3f-9940-5ba960948d42",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/elissa-slotkin-trump-speech-response.html",
+      "id": 100000010032565,
+      "asset_id": 100000010032565,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-05 08:00:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Speeches and Statements;Slotkin, Elissa;Trump, Donald J;Democratic Party;Michigan",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Warning That Trump Will ‘Make You Pay,’ Slotkin Gives Democratic Response",
+      "abstract": "The Michigan Democrat, a first-term senator, opted for a simple and brief response to President Trump’s speech, arguing that his agenda would be costly for Americans and leave them less safe.",
+      "des_facet": ["United States Politics and Government", "Speeches and Statements"],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Slotkin, Elissa", "Trump, Donald J"],
+      "geo_facet": ["Michigan"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Elissa Slotkin urged demoralized Democrats not to “tune out,” saying democracy itself was at risk.",
+          "copyright": "Pool photo by Paul Sancya",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-speech-congress-live184-lmqj/04trump-speech-congress-live184-lmqj-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-speech-congress-live184-lmqj/04trump-speech-congress-live184-lmqj-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-speech-congress-live184-lmqj/04trump-speech-congress-live184-lmqj-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/61a8cd1a-d8dc-5483-9ebb-e29b618c2cae",
+      "url": "https://www.nytimes.com/interactive/2025/03/05/world/asia/xuzhou-china-chained-woman-incident-activists.html",
+      "id": 100000009966572,
+      "asset_id": 100000009966572,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 10:51:17",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Politics and Government;Women's Rights;Women and Girls;Human Trafficking;Human Rights and Human Rights Violations;Surveillance of Citizens by Government;Censorship;China;Jiangsu Province (China)",
+      "column": null,
+      "byline": "By Vivian Wang and Pablo Robles",
+      "type": "Interactive",
+      "title": "The Secret Campaign in China to Save a Woman Chained by the Neck",
+      "abstract": "The accidental discovery of the woman led to a video that went viral, spurring public outrage. The Communist Party quashed the discussion, but the anger never went away.",
+      "des_facet": [
+        "Politics and Government",
+        "Women's Rights",
+        "Women and Girls",
+        "Human Trafficking",
+        "Human Rights and Human Rights Violations",
+        "Surveillance of Citizens by Government",
+        "Censorship"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["China", "Jiangsu Province (China)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/31/multimedia/2024-10-16-chained-woman-characters-index/2024-10-16-chained-woman-characters-index-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/31/multimedia/2024-10-16-chained-woman-characters-index/2024-10-16-chained-woman-characters-index-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/31/multimedia/2024-10-16-chained-woman-characters-index/2024-10-16-chained-woman-characters-index-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4e04c85c-bdfc-5ce8-801f-9ae635d07e45",
+      "url": "https://www.nytimes.com/2025/03/05/opinion/trump-joint-session-congress.html",
+      "id": 100000010029492,
+      "asset_id": 100000010029492,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 10:43:31",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "State of the Union Message (US);United States Politics and Government;Presidential Election of 2024;Customs (Tariff);Presidents and Presidency (US);Trump, Donald J",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "The State of Himself",
+      "abstract": "Trump hasn’t altered his behavior to be president. He altered the presidency to match his personality.",
+      "des_facet": [
+        "State of the Union Message (US)",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Customs (Tariff)",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/05dowd-qgzm/05dowd-qgzm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/05dowd-qgzm/05dowd-qgzm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/05dowd-qgzm/05dowd-qgzm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2c0a97cd-3978-5d67-85f6-3ad017dfadc3",
+      "url": "https://www.nytimes.com/2025/03/05/opinion/trump-musk-ukraine-iraq.html",
+      "id": 100000010030426,
+      "asset_id": 100000010030426,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 09:52:00",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Government Employees;Layoffs and Job Reductions;United States Politics and Government;United States Economy;United States International Relations;United States Defense and Military Forces;Russian Invasion of Ukraine (2022);Foreign Aid;Iraq War (2003-11);Trump, Donald J;Musk, Elon;Ukraine",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "How to Tell That the Chain Saw Is Coming for America",
+      "abstract": "“Shock and awe” didn’t end well in Iraq and it won’t end well in the United States.",
+      "des_facet": [
+        "Government Employees",
+        "Layoffs and Job Reductions",
+        "United States Politics and Government",
+        "United States Economy",
+        "United States International Relations",
+        "United States Defense and Military Forces",
+        "Russian Invasion of Ukraine (2022)",
+        "Foreign Aid",
+        "Iraq War (2003-11)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J", "Musk, Elon"],
+      "geo_facet": ["Ukraine"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by The New York Times; source photographs by Brandon Bell/Getty Images and Stephen Jaffe/AFP, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/opinion/05friedman-diptych-trump-musk-bush-cheney/05friedman-diptych-trump-musk-bush-cheney-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/opinion/05friedman-diptych-trump-musk-bush-cheney/05friedman-diptych-trump-musk-bush-cheney-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/opinion/05friedman-diptych-trump-musk-bush-cheney/05friedman-diptych-trump-musk-bush-cheney-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bb389c3-d9e8-53ee-b986-5d25e4cf890d",
+      "url": "https://www.nytimes.com/2025/03/04/us/politics/jd-vance-uk-random-country.html",
+      "id": 100000010030238,
+      "asset_id": 100000010030238,
+      "source": "New York Times",
+      "published_date": "2025-03-04",
+      "updated": "2025-03-06 05:12:54",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States International Relations;Defense and Military Forces;Trump, Donald J;Starmer, Keir;Macron, Emmanuel (1977- );North Atlantic Treaty Organization;France;Great Britain;Ukraine;Europe;Russia",
+      "column": null,
+      "byline": "By Mark Landler",
+      "type": "Article",
+      "title": "Vance Ignites Outrage in Britain With ‘Random Country’ Comment",
+      "abstract": "The vice president denied that he was talking about Britain and France when he downplayed “20,000 troops from some random country” protecting Ukraine. No other countries have pledged troops.",
+      "des_facet": ["United States International Relations", "Defense and Military Forces"],
+      "org_facet": ["North Atlantic Treaty Organization"],
+      "per_facet": ["Trump, Donald J", "Starmer, Keir", "Macron, Emmanuel (1977- )"],
+      "geo_facet": ["France", "Great Britain", "Ukraine", "Europe", "Russia"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President JD Vance’s comments on the Anglo-French proposal to protect Ukraine have sparked criticism in Britain.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-news-vance-uk-cjqf/04trump-news-vance-uk-cjqf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-news-vance-uk-cjqf/04trump-news-vance-uk-cjqf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-news-vance-uk-cjqf/04trump-news-vance-uk-cjqf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9f30f0dc-069a-55f8-82c2-41ff2b6ee0f2",
+      "url": "https://www.nytimes.com/2025/03/04/us/politics/al-green-trump-speech-heckling.html",
+      "id": 100000010032240,
+      "asset_id": 100000010032240,
+      "source": "New York Times",
+      "published_date": "2025-03-04",
+      "updated": "2025-03-05 03:20:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Politics and Government;State of the Union Message (US);Green, Alexander N (1947- );Democratic Party;House of Representatives",
+      "column": null,
+      "byline": "By Maya C. Miller",
+      "type": "Article",
+      "title": "Al Green Removed From House Chamber for Heckling Trump During Address",
+      "abstract": "Republicans had the Texas Democrat, who introduced the first articles of impeachment against Trump in 2017, ejected after he shouted at the president and refused to sit down.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Politics and Government",
+        "State of the Union Message (US)"
+      ],
+      "org_facet": ["Democratic Party", "House of Representatives"],
+      "per_facet": ["Green, Alexander N (1947- )"],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c441947b-2c83-511c-918c-51c1e92385ae",
+      "url": "https://www.nytimes.com/2025/03/05/business/trump-canada-us-banks.html",
+      "id": 100000010030615,
+      "asset_id": 100000010030615,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-05 16:00:05",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Protectionism (Trade);Banking and Financial Institutions;United States Politics and Government;Trump, Donald J;Cheung, Maggie;Bank of Canada;JPMorgan Chase & Company;Royal Bank of Canada;Toronto Dominion Bank",
+      "column": null,
+      "byline": "By Rob Copeland",
+      "type": "Article",
+      "title": "Trump Says U.S. Banks Can’t Do Business in Canada. It’s Not That Simple.",
+      "abstract": "President Trump has complained that American banks are restricted from operating in Canada. They can, but are hamstrung.",
+      "des_facet": [
+        "Protectionism (Trade)",
+        "Banking and Financial Institutions",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Bank of Canada",
+        "JPMorgan Chase & Company",
+        "Royal Bank of Canada",
+        "Toronto Dominion Bank"
+      ],
+      "per_facet": ["Trump, Donald J", "Cheung, Maggie"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Canada’s banking sector is dominated by a half-dozen large institutions.",
+          "copyright": "Chris Wattie/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/4biz-canadabanks-clhp/4biz-canadabanks-clhp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/4biz-canadabanks-clhp/4biz-canadabanks-clhp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/4biz-canadabanks-clhp/4biz-canadabanks-clhp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a366799-d2ec-5c6c-930f-d93763243356",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/democrats-trump-al-green-protests-congress.html",
+      "id": 100000010033226,
+      "asset_id": 100000010033226,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 09:10:45",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Demonstrations, Protests and Riots;United States Politics and Government;Speeches and Statements;Green, Alexander N (1947- );Trump, Donald J;Democratic Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Democratic Response to Trump Shows a Party Divided on How to Resist Him",
+      "abstract": "Party leaders opted for a soberly delivered, centrist counter to the president’s speech, but the dominant image of Democratic pushback was a liberal congressman waving his cane in protest.",
+      "des_facet": [
+        "Demonstrations, Protests and Riots",
+        "United States Politics and Government",
+        "Speeches and Statements"
+      ],
+      "org_facet": ["Democratic Party", "House of Representatives", "Senate"],
+      "per_facet": ["Green, Alexander N (1947- )", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Al Green, Democrat of Texas, staged the most notable protest of President Trump’s address to Congress on Tuesday as he stood up from his seat and shouted at the president. Mr. Green was ejected from the chamber for his actions.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-dems-topart-bjmw/05dc-dems-topart-bjmw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-dems-topart-bjmw/05dc-dems-topart-bjmw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05dc-dems-topart-bjmw/05dc-dems-topart-bjmw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/04c5dd61-61db-578d-9558-a7fd7f37a180",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-immigration-deportations-arrests.html",
+      "id": 100000009987513,
+      "asset_id": 100000009987513,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 05:15:59",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deportation;Illegal Immigration;Immigration Detention;United States Politics and Government;Trump, Donald J;Homan, Thomas D;Immigration and Customs Enforcement (US)",
+      "column": null,
+      "byline": "By Hamed Aleaziz and Zolan Kanno-Youngs",
+      "type": "Article",
+      "title": "Frustration Grows Inside the White House Over Pace of Deportations",
+      "abstract": "President Trump’s promise to launch the largest deportation operation in U.S. history is colliding with the practical difficulties of detaining people and transporting them across the globe.",
+      "des_facet": [
+        "Deportation",
+        "Illegal Immigration",
+        "Immigration Detention",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Immigration and Customs Enforcement (US)"],
+      "per_facet": ["Trump, Donald J", "Homan, Thomas D"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S.-Mexico border near Ciudad Juárez, Mexico, where crossings have dropped drastically. President Trump is said to be happy with the decline in border crossings.",
+          "copyright": "Alejandro Cegarra for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04DC-IMMIG-jlzb/04DC-IMMIG-jlzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04DC-IMMIG-jlzb/04DC-IMMIG-jlzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04DC-IMMIG-jlzb/04DC-IMMIG-jlzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a3a5a971-2446-5429-80b1-1e13e1ecfa40",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/sylvester-turner-dead.html",
+      "id": 100000010033359,
+      "asset_id": 100000010033359,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 10:46:02",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);United States Politics and Government;Elections, House of Representatives;Mayors;State Legislatures;Turner, Sylvester;House of Representatives;Democratic Party;Houston (Tex);Texas",
+      "column": null,
+      "byline": "By Clay Risen",
+      "type": "Article",
+      "title": "Sylvester Turner, Sworn In as U.S. Representative in January, Dies at 70",
+      "abstract": "A former mayor of Houston, he was in attendance at the president’s speech on Tuesday night and was later taken to a hospital.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "United States Politics and Government",
+        "Elections, House of Representatives",
+        "Mayors",
+        "State Legislatures"
+      ],
+      "org_facet": ["House of Representatives", "Democratic Party"],
+      "per_facet": ["Turner, Sylvester"],
+      "geo_facet": ["Houston (Tex)", "Texas"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sylvester Turner in 2023, when he was mayor of Houston. He was elected to the House of Representatives last year.",
+          "copyright": "Michael Starghill Jr. for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05Turner--fvlc-print1/05Turner--fvlc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05Turner--fvlc-print1/05Turner--fvlc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05Turner--fvlc-print1/05Turner--fvlc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/286278eb-4383-5af2-a8fd-1918bf98d6ae",
+      "url": "https://www.nytimes.com/2025/03/05/world/europe/trump-king-charles-zelensky-trudeau.html",
+      "id": 100000010030989,
+      "asset_id": 100000010030989,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 10:32:05",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Royal Families;International Relations;Politics and Government;United States International Relations;Russian Invasion of Ukraine (2022);Charles III, King of the United Kingdom;Starmer, Keir;Zelensky, Volodymyr;Trudeau, Justin;Trump, Donald J;Great Britain;Ukraine;Canada;Europe",
+      "column": null,
+      "byline": "By Mark Landler",
+      "type": "Article",
+      "title": "King Charles III, a Quiet Diplomat, is Stepping Up",
+      "abstract": "As he welcomed the leaders of Ukraine and Canada to his country estate this week, the king was sending a message to the world.",
+      "des_facet": [
+        "Royal Families",
+        "International Relations",
+        "Politics and Government",
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Charles III, King of the United Kingdom",
+        "Starmer, Keir",
+        "Zelensky, Volodymyr",
+        "Trudeau, Justin",
+        "Trump, Donald J"
+      ],
+      "geo_facet": ["Great Britain", "Ukraine", "Canada", "Europe"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A photograph released by Britain’s Ministry of Defense showing King Charles III visiting the aircraft carrier H.M.S. Prince of Wales in the English Channel on Tuesday, as the Royal Navy finalizes preparations for a major deployment to the Indo-Pacific this spring. ",
+          "copyright": "Britain's Ministry of Defense",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05uk-king-1-czbf/05uk-king-1-czbf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05uk-king-1-czbf/05uk-king-1-czbf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05uk-king-1-czbf/05uk-king-1-czbf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9296d92-fcb8-56e0-a9ae-a7835174d6d2",
+      "url": "https://www.nytimes.com/2025/03/05/us/trump-address-us-reaction.html",
+      "id": 100000010029445,
+      "asset_id": 100000010029445,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 00:35:36",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States International Relations;United States Economy;Protectionism (Trade);Foreign Aid;International Trade and World Market;Immigration and Emigration;Speeches and Statements;Customs (Tariff);Executive Orders and Memorandums;Trump, Donald J;United States",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "What Some Reluctant Trump Voters Thought of His Speech",
+      "abstract": "For many reluctant Trump voters, there was a mixture of confidence, anxiety, hope and frustration — along with some anger directed at congressional Democrats.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "United States Economy",
+        "Protectionism (Trade)",
+        "Foreign Aid",
+        "International Trade and World Market",
+        "Immigration and Emigration",
+        "Speeches and Statements",
+        "Customs (Tariff)",
+        "Executive Orders and Memorandums"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/world/05nat-100days-tali-promo-new/05nat-100days-tali-promo-new-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/world/05nat-100days-tali-promo-new/05nat-100days-tali-promo-new-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/world/05nat-100days-tali-promo-new/05nat-100days-tali-promo-new-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18b9a3ad-687b-520f-90ac-7c4854b6f949",
+      "url": "https://www.nytimes.com/2025/03/06/us/politics/trump-university-funding-grad-student-cuts.html",
+      "id": 100000010027735,
+      "asset_id": 100000010027735,
+      "source": "New York Times",
+      "published_date": "2025-03-06",
+      "updated": "2025-03-06 07:06:41",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Colleges and Universities;Grants (Corporate and Foundation);Graduate Schools and Students;Trump, Donald J;Columbia University;Education Department (US);Ivy League;National Institutes of Health;North Carolina State University;Stanford University;University of California, San Diego;University of Louisville;University of Pennsylvania;Yale University;United States",
+      "column": null,
+      "byline": "By Stephanie Saul",
+      "type": "Article",
+      "title": "As Trump Goes After Universities, Students Are Now on the Chopping Block",
+      "abstract": "Uncertainty about how much money colleges and universities stand to lose has led some schools to reduce the number of doctoral students, in some cases reneging on offers.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Grants (Corporate and Foundation)",
+        "Graduate Schools and Students"
+      ],
+      "org_facet": [
+        "Columbia University",
+        "Education Department (US)",
+        "Ivy League",
+        "National Institutes of Health",
+        "North Carolina State University",
+        "Stanford University",
+        "University of California, San Diego",
+        "University of Louisville",
+        "University of Pennsylvania",
+        "Yale University"
+      ],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the University of Pennsylvania, administrators have asked departments in the School of Arts & Sciences to cut incoming Ph.D. students. ",
+          "copyright": "Rachel Wisniewski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06nat-student-cuts-wpmc/06nat-student-cuts-wpmc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06nat-student-cuts-wpmc/06nat-student-cuts-wpmc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/06/multimedia/06nat-student-cuts-wpmc/06nat-student-cuts-wpmc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e2654a9a-7356-50d4-b116-7c149dc4a1c0",
+      "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-speech-ukraine-tariffs.html",
+      "id": 100000010031050,
+      "asset_id": 100000010031050,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 00:36:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Foreign Aid;United States International Relations;Russian Invasion of Ukraine (2022);Protectionism (Trade);Customs (Tariff);Federal Aid (US);Executive Orders and Memorandums;State of the Union Message (US);Trump, Donald J;North Atlantic Treaty Organization;Panama Canal and Canal Zone;Ukraine;Russia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Trump Celebrates His Disruption but Slides Over Its Costs",
+      "abstract": "The president’s speech to Congress covered tariffs, Ukraine and cuts to the federal work force but did little to address the perils that accompany the abrupt shifts he has engineered.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Foreign Aid",
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)",
+        "Protectionism (Trade)",
+        "Customs (Tariff)",
+        "Federal Aid (US)",
+        "Executive Orders and Memorandums",
+        "State of the Union Message (US)"
+      ],
+      "org_facet": ["North Atlantic Treaty Organization"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["Panama Canal and Canal Zone", "Ukraine", "Russia"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b9f5238-aa45-5f37-8f06-1764a1f74619",
+      "url": "https://www.nytimes.com/2025/03/05/nyregion/sam-nordquist-murder-transgender-hate.html",
+      "id": 100000010033963,
+      "asset_id": 100000010033963,
+      "source": "New York Times",
+      "published_date": "2025-03-05",
+      "updated": "2025-03-06 00:39:13",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Sex Crimes;Murders, Attempted Murders and Homicides;Transgender;Child Abuse and Neglect;Nordquist, Sam (d 2025)",
+      "column": null,
+      "byline": "By Andrew Keh",
+      "type": "Article",
+      "title": "Children Were Forced to Torture Sam Nordquist, Prosecutors Say",
+      "abstract": "Seven people are now charged with first-degree murder in connection with the death of Mr. Nordquist, a transgender man whose killing has drawn national attention.",
+      "des_facet": [
+        "Sex Crimes",
+        "Murders, Attempted Murders and Homicides",
+        "Transgender",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [],
+      "per_facet": ["Nordquist, Sam (d 2025)"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam Nordquist, 24, traveled to New York to meet someone he had become acquainted with online, the authorities said, but was later found dead in a field south of Rochester.",
+          "copyright": "New York State Police, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05ny-nordquist-01-kptv/05ny-nordquist-01-kptv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05ny-nordquist-01-kptv/05ny-nordquist-01-kptv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/03/05/multimedia/05ny-nordquist-01-kptv/05ny-nordquist-01-kptv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
